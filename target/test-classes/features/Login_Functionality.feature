@@ -1,6 +1,6 @@
 Feature: Employee Login Functionality
 
-@Sanity
+
 Scenario: Verify Employee Login Functionality
 Given I am in landing page
 When I click on Login menu
